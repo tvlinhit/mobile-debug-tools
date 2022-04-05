@@ -1,0 +1,16 @@
+{
+  "name": "debug-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node node_modules/.bin/chii start -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chii": "^0.6.9",
+    "weinre": "^3.0.0"
+  }
+}

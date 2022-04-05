@@ -1,1 +1,1 @@
-web: node node_modules/.bin/weinre --httpPort $PORT --boundHost -all- --verbose
+web: node node_modules/.bin/chii start -p $PORT
